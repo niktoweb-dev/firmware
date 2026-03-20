@@ -1,0 +1,14 @@
+{
+  "name": "ESP32-S3-N16R8",
+  "flash_size": "16MB",
+  "psram_size": "8MB",
+  "components": {
+    "display": "ST7789",
+    "rf_modules": [
+      "CC1101",
+      "NRF24"
+    ],
+    "nfc_reader": "PN532",
+    "storage": "SD" 
+  }
+}
